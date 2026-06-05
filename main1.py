@@ -1,0 +1,3 @@
+from calculate_demographic_data import calculate_demographic_data
+
+calculate_demographic_data()
